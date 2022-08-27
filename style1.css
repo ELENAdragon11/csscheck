@@ -1,0 +1,41 @@
+h1, h2{
+    font-size: 50px;
+    color: blueviolet;
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+    line-height: 40px;
+}
+.intro{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.korw{
+    text-align: center;
+}
+iframe {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+    height: 600px;
+    padding: 20px;
+    border: 5px solid #E6A6FF
+    ;
+}
+ 
+a:hover{ color: blueviolet;
+
+}
+h3{
+    color:#E6A6FF;
+    font-size: 30px;
+
+}
+input{
+border:5px light #E6A6FF ;
+border-radius: 9px;
+}
